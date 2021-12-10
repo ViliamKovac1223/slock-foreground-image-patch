@@ -2,7 +2,7 @@
 This patch adds foreground image to [slock](http://tools.suckless.org/slock/).
 
 # configuration options
-1. *imgpath - is path to image to display, image must be xpm file
+1. imgpath - is path to image to display, image must be xpm file
 2. imgwidth - width of the image
 3. imgheight - height of the image
 4. imgoffsetx - image offset from left side
