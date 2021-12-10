@@ -15,3 +15,12 @@ Copy slock-foreground-image.diff to the same folder where you have slock source 
 ```bash
 patch -p1 < slock-foreground-image-20211210.diff
 ```
+
+# xpm image
+Xpm image is bitmap image used by X Windows System.
+It's one of the few image formats that is supported by Xorg by default.
+
+Convert jpg to xpm:
+```
+convert image.jpg -geometry 1920x1080 -colors 216 image.xpm
+```
