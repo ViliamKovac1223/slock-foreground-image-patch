@@ -1,5 +1,6 @@
 # slock-foreground-image-patch
 This patch adds foreground image to [slock](http://tools.suckless.org/slock/).
+[Link to patch at the official suckless website](http://tools.suckless.org/slock/patches/foreground-image/)
 
 # configuration options
 1. imgpath - is path to image to display, image must be xpm file
